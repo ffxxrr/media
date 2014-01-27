@@ -3,7 +3,17 @@
 <fanart>http://www.hdwallpapers.in/walls/infinity_hdtv_1080p-HD.jpg</fanart>
 #######################################################################################################################################
 
-<name>[COLOR aqua]  HackerMil 1080p Movies[/COLOR]</name>
+<name>[COLOR aqua]HackerMil 1080p Movies[/COLOR]</name>
 <link>https://raw.github.com/HackerMil/HackerMilsMovieStash/master/Movies/4%201080P.xml</link>
 <thumbnail>http://farm3.staticflickr.com/2893/10217616913_ae89445d65_o.jpg</thumbnail>
 <date>HM</date>
+
+<name>TNPB 1080p Movies</name>
+<link>https://github.com/mash2k3/MashUpTNPB/raw/master/1080p%20Movies.xml</link>
+<thumbnail>http://s20.postimg.org/44f30inml/1080p_Movies.png</thumbnail>
+<date>**NEW CONTENT COMING SOON**</date>
+
+<name>Demon88 1080p HD Movies</name>
+<link>https://raw.github.com/mash2k3/demon88/master/1080pMovies%20.xml</link>
+<thumbnail>http://cs302803.vk.me/v302803764/495d/0pp6W9Urer8.jpg</thumbnail>
+<date>DAILY</date>
